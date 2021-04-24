@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Jesus is green
 
+=======
+>>>>>>> new-branch-1
