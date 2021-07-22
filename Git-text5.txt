@@ -5,3 +5,5 @@ I'm on another branch right now
 So this change was made localy on new-branch-1
 Here are some changes I want made :
 A b c D E F H g K 0
+I have made the changes : 
+A B C D E F G H I J K L M N O
